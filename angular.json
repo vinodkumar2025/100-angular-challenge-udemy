@@ -119,5 +119,7 @@
       }
     }
   },
-  "defaultProject": "angular-challenge-udemy"
+  "cli": {
+    "defaultProject": "angular-challenge-udemy"
+  }
 }
